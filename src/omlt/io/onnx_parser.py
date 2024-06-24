@@ -376,3 +376,4 @@ def _parse_constant_value(node):
     attr = _collect_attributes(node)
     value = attr["value"]
     return value
+
